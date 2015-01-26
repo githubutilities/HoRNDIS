@@ -4,6 +4,10 @@
 
 For more information, [visit the home page for HoRNDIS on my site](http://www.joshuawise.com/horndis).
 
+### Get Installation Package
+
+`git clone` the `gh-pages` branch of [my repository](https://github.com/githubutilities/HoRNDIS/tree/gh-pages)
+
 ### Installation
 
 * navigate to `lastest_package` folder and run the installer `HoRNDIS-rel7.pkg`(release 7)(md5sum 45a1a7457966b1dc79897af2864f68e4)
